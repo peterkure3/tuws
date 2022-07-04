@@ -1,2 +1,2 @@
-# tuws
+# TUWS
 Full Scale Web project
